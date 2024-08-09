@@ -1,3 +1,6 @@
+![Honolulu](SurfsUp/honolulu.jpg)
+
+
 ### Before You Begin
 * Create a new repository for this project called sqlalchemy-challenge. Do not add this assignment to an existing repository.
 * Clone the new repository to your computer.
