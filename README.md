@@ -1,4 +1,4 @@
-![Honolulu](SurfsUp/honolulu.jpg)
+![Honolulu](SurfsUp/Images/honolulu.jpg)
 
 
 ### Before You Begin
